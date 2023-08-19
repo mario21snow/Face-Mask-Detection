@@ -1,6 +1,6 @@
 # Face Mask Detection - Object Detection
 
-**Complete Video Tutorial:** https://youtu.be/xDCDquQ0sSk
+
 
 ## Dataset Information
 
